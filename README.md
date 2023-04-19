@@ -8,10 +8,12 @@
 - aplikacja SPA z wykorzystaniem Vite
 - użycie TypeScript’u
 - forma dostarczenia zadania dowolna (może być paczka zip lub repozytorium)
-  **Formularz zawierajy reużywalne komponenty
+ 
+ 
+**Formularz zawierajy reużywalne komponenty**
 a) input z walidacją (walidacja wykonywana podczas zejścia z pola – pole traci focus)
 
-b) select**
+b) select
 
 **Wytyczne dotyczące komponentów:**
 
