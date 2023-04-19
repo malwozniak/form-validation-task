@@ -1,33 +1,29 @@
 # Form validation task
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vue-9yhbdv)
-**ZADANIE REKRUTACYJNE JUNIOR FRONT-END DEVELOPER**
-**Wymagania techniczne:**
 
-- Vue 2 +
-- komponenty Option API lub Composition API (preferowany script setup)
-- aplikacji SPA z wykorzystaniem Vue Cli lub Vite (preferowany)
-- użycie TypeScript’u mile widziane i dodatkowo punktowane
+**Stack techniczny:**
+- Vue
+- komponenty Option API lub Composition API
+- aplikacja SPA z wykorzystaniem Vite
+- użycie TypeScript’u
 - forma dostarczenia zadania dowolna (może być paczka zip lub repozytorium)
-  Zadanie polega na stworzeniu formularza zawierającego reużywalne komponenty:
-  a) input z walidacją (walidacja wykonywana podczas zejścia z pola – pole traci focus)
+  **Formularz zawierajy reużywalne komponenty
+a) input z walidacją (walidacja wykonywana podczas zejścia z pola – pole traci focus)
 
-b) select
+b) select**
 
 **Wytyczne dotyczące komponentów:**
 
-- komponenty powinny być reużywalne
-- komponenty powinny być reużywalne
-- komponent powinien być napisany jako SFC
-- powyższe grafiki są jedynie pomocnicze, nie wymagamy odzwierciedlenia wymiarów
-  oraz kolorów
-- komponenty wizualnie powinny być przygotowane z dbałością o estetykę
-- wymagane stany komponentów:
+- komponenty są reużywalne
+- komponent został napisany jako SFC
+- komponenty wizualnie są przygotowane z dbałością o estetykę
+- stany komponentów:
   a) input: blur, focus, disabled, error (jedynie pierwszy wiersz – bez ikon)
 
 **Formularz:**
 
-- powinien składać się z dwóch pól:
+- składa się z dwóch pól:
   a) imię: komponent input
   b) marka pojazdu: komponent select (z 10 wybranymi markami pojazdów)
 - formularz zawiera przycisk do walidacji formularza (może być to zwykły,
@@ -50,4 +46,3 @@ Stan formularza: wypełniony select
 
 Stan formularza: wypełniony select oraz błędnie wypełniony input
 
-Stan formularza: wypełniony select oraz
