@@ -1,4 +1,4 @@
-# Form validation task
+# Form validation task - Formularz walidacji zadania
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vue-9yhbdv)
 
@@ -11,6 +11,7 @@
  
  
 **Formularz zawierajy reużywalne komponenty**
+
 a) input z walidacją (walidacja wykonywana podczas zejścia z pola – pole traci focus)
 
 b) select
